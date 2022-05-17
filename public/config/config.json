@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xbbABdAaD3f2b37826e814365e5d610452e8e0Fb7",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xbbabdaad3f2b37826e814365e5d610452e8e0fb7",
+  "CONTRACT_ADDRESS": "0xfAF6694Cb04b9104F127B2f3f22B091a2106B3Ff",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xfAF6694Cb04b9104F127B2f3f22B091a2106B3Ff",
   "NETWORK": {
     "NAME": "Mumbai Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/thumbsnft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/thumbsup-universe-v2",
   "SHOW_BACKGROUND": true
 }
